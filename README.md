@@ -1,7 +1,10 @@
 # 如何配置这个东西
+## 下载代码
+这个页面右上角有个绿色的 `"Clone or Download"` Button。点一下再点 `"Download ZIP"` 就行，全套安排上了。
+
 ## 需要的配置
 + 安装 *Python 3.6*
-+ 安装一个 Google Chrome
++ 安装一个 *Google Chrome*
 + 确保第一点搞定后，用 *pip* 安装一些程序需要的别的工具，这些都好说
 
 ## 尝试在命令行运行 
